@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.coinwave.crypto.portfolio
 
 import io.flutter.embedding.android.FlutterActivity
 
